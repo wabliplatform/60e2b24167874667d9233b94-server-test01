@@ -10,7 +10,6 @@ expressServer.js
 index.js
 logger.js
 models/Product.js
-models/ProductPimage.js
 models/index.js
 mongooseDB.js
 package.json
