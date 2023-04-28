@@ -132,13 +132,13 @@ components:
   schemas:
     product:
       example:
-        ptitle: ptitle
+        pd: pd
         _id: _id
       properties:
         _id:
           type: string
-        ptitle:
+        pd:
           type: string
       required:
-      - ptitle
+      - pd
       type: object

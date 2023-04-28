@@ -6,7 +6,7 @@ const productSchema = new Schema({
 Underscoreid:String , 
 
 
-ptitle:String 
+pd:String 
 
 
 
